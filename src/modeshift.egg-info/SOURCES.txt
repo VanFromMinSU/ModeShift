@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+src/modeshift/__init__.py
+src/modeshift/__main__.py
+src/modeshift/cli.py
+src/modeshift.egg-info/PKG-INFO
+src/modeshift.egg-info/SOURCES.txt
+src/modeshift.egg-info/dependency_links.txt
+src/modeshift.egg-info/entry_points.txt
+src/modeshift.egg-info/requires.txt
+src/modeshift.egg-info/top_level.txt
